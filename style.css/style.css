@@ -164,9 +164,9 @@ body {
     font-family: "Raleway";
 }
 
-/* h1,h2,h3 {
+h1,h2,h3 {
     font-weight: 900;
-} */
+}
 
 .center {
     padding-left:calc(50vw - 525px) ;
@@ -191,4 +191,21 @@ body {
 
 #header_block_title {
     background-color: aliceblue;
+}
+
+.article_section {
+    display: flex;
+}
+
+.article__paragraph {
+    display: flex;
+    max-width: 600px;
+    align-items: center;    
+    font-size: 20px;
+
+}
+
+.photo_semantic {
+    width: 350px;
+    height: 350px;
 }
