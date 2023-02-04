@@ -217,5 +217,28 @@ h1,h2,h3 {
     margin-top: 16px;
     width: 350px;
     height: 350px;
-    margin-top: 100px;
+    margin: 100px 0px 0px 0px;
+}
+
+.article_support_title {
+    display: flex;
+    justify-content: center;
+    margin: 100px 0px 50px 0px;
+    font-size: 45px;
+}
+
+.article_support_item {
+    width: 100%;
+
+}
+
+#icons_of_browse {
+    width: 400px;
+    height: 80px;
+}
+
+.icons_block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
