@@ -220,11 +220,16 @@ h1,h2,h3 {
     margin: 100px 0px 0px 0px;
 }
 
+.article_support {
+    background-color: lightgrey;
+}
+
 .article_support_title {
     display: flex;
     justify-content: center;
-    margin: 100px 0px 50px 0px;
+    margin: 150px 0px 50px 0px;
     font-size: 45px;
+    padding-top: 50px;
 }
 
 .article_support_item {
@@ -235,6 +240,7 @@ h1,h2,h3 {
 #icons_of_browse {
     width: 400px;
     height: 80px;
+    padding-bottom: 50px;
 }
 
 .icons_block {
