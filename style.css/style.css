@@ -321,13 +321,7 @@ h1,h2,h3 {
 .page:hover {
     content: "";
     color: cadetblue;
-    background-color: transparent
-}
-
-.page:visited {
-    color: black;
-    background-color: transparent;
-
+    background: blue;
 }
 
 #footer {
