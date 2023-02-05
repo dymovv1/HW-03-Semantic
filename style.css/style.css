@@ -193,7 +193,7 @@ h1,h2,h3 {
     background-color: aliceblue;
 }
 
-#paragraph_details {
+.paragraph_details {
     margin: 0%;
     padding: 0%;
 }
@@ -286,3 +286,13 @@ h1,h2,h3 {
     background: black;
     font-size: 20px;
 }
+
+.article_section_element {
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    padding: 50px;
+    margin: 100px 0px 0px 0px;
+    background-color: lightgray;
+}
+
