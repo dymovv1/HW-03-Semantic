@@ -354,7 +354,7 @@ h1,h2,h3 {
 }
 
 .footer_created { 
-    background-image: url(/img/back_footer.jpg);
+    background-image: url(/img/header_back2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 70px 0px 0px 0px;
@@ -363,6 +363,7 @@ h1,h2,h3 {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    color: #eeeeee;
 
 }
 
