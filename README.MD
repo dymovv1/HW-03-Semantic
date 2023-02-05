@@ -1,2 +1,2 @@
-Click on [WebSite] (https://dymovv1.github.io/simply_CV/)
+Click on [Website] [https://dymovv1.github.io/simply_CV]
 
