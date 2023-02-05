@@ -1,2 +1,2 @@
-Click on [Website] [https://dymovv1.github.io/simply_CV]
+Please [Click me](https://dymovv1.github.io/HW-03-Semantic/).
 
